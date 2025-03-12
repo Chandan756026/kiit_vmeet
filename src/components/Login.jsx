@@ -25,7 +25,7 @@ const App = () => {
       ) : (
         <GoogleLogin
           // clientId={process.env.GOOGLE_CLIENT_ID}
-          clientId="660763961168-5v7hqb3l28seck9ksjos01bpchns9nq4.apps.googleusercontent.com"
+          clientId="554327446243-c7upokp8l242lh30vob2o2ag1db3jn6p.apps.googleusercontent.com"
           onFailure={responseGoogleFail}
           onSuccess={responseGoogle}
           onError={responseGoogleError}
