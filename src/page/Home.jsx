@@ -84,7 +84,7 @@ const Home = () => {
           <div>
             <div className="p-3 md:p-4 md:rounded-xl rounded md:text-base text-sm md:mt-6 mt-2 text-white md:font-semibold text-center w-full bg-blue">
               Made with love by
-              <a href="https://github.com/ashavijit" target={"_blank"} rel="noreferrer">
+              <a href="https://github.com/Chandan756026" target={"_blank"} rel="noreferrer">
                 {" "}
                 Avijit <></>Sen
               </a>
